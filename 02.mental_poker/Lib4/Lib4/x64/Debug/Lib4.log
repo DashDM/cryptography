@@ -1,0 +1,8 @@
+﻿  Lib4.cpp
+C:\Users\Dmitr\Desktop\учёба\Криптография\op op op\4lab(skinut)\Lib4\Lib4\Lib4.cpp(26,23): warning C4244: аргумент: преобразование "__int64" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Dmitr\Desktop\учёба\Криптография\op op op\4lab(skinut)\Lib4\Lib4\Lib4.cpp(38,26): warning C4018: <: несоответствие типов со знаком и без знака
+  Lib4.vcxproj -> C:\Users\Dmitr\Desktop\учёба\Криптография\op op op\4lab(skinut)\Lib4\x64\Debug\Lib4.exe

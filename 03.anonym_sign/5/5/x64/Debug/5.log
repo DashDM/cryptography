@@ -1,0 +1,14 @@
+﻿  5.cpp
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\MD5\MD5\MD5.h(128,37): warning C4267: аргумент: преобразование из "size_t" в "MD5::size_type"; возможна потеря данных
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\MD5\MD5\MD5.h(414,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\MD5\MD5\MD5.h(426,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\MD5\MD5\MD5.h(444,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\MD5\MD5\MD5.h(475,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\MD5\MD5\MD5.h(476,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitr\Desktop\учёба\Криптография\5\5\5.cpp(16,23): warning C4244: аргумент: преобразование "__int64" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Dmitr\Desktop\учёба\Криптография\5\5\5.cpp(27,26): warning C4018: <: несоответствие типов со знаком и без знака
+  5.vcxproj -> C:\Users\Dmitr\Desktop\учёба\Криптография\5\x64\Debug\5.exe

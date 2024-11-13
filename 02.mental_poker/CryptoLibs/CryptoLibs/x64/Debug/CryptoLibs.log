@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\CryptoLibs\CryptoLibs\main.cpp(17,23): warning C4244: аргумент: преобразование "__int64" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\CryptoLibs\CryptoLibs\main.cpp(28,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\CryptoLibs\CryptoLibs\main.cpp(121,63): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\CryptoLibs\CryptoLibs\main.cpp(121,51): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\CryptoLibs\CryptoLibs\main.cpp(127,76): warning C4244: аргумент: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\CryptoLibs\CryptoLibs\main.cpp(127,109): warning C4244: аргумент: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\CryptoLibs\CryptoLibs\main.cpp(135,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\CryptoLibs\CryptoLibs\main.cpp(141,34): warning C4244: аргумент: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\CryptoLibs\CryptoLibs\main.cpp(141,67): warning C4244: аргумент: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\CryptoLibs\CryptoLibs\main.cpp(267,10): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\CryptoLibs\CryptoLibs\main.cpp(148): warning C4715: genQPG: значение возвращается не при всех путях выполнения
+  CryptoLibs.vcxproj -> C:\Users\Dmitr\Desktop\учёба\Криптография\full\CryptoLibs\x64\Debug\CryptoLibs.lib
