@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\MD5\MD5\MD5.h(128,37): warning C4267: аргумент: преобразование из "size_t" в "MD5::size_type"; возможна потеря данных
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\MD5\MD5\MD5.h(414,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\MD5\MD5\MD5.h(426,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\MD5\MD5\MD5.h(444,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\MD5\MD5\MD5.h(475,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitr\Desktop\учёба\Криптография\full\MD5\MD5\MD5.h(476,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  MD5.vcxproj -> C:\Users\Dmitr\Desktop\учёба\Криптография\full\MD5\x64\Debug\MD5.lib
